@@ -1,0 +1,3 @@
+Tula;Moscow;1;1
+Saint-Petersburg;Tula;1;1
+Moscow;Saint-Petersburg;1;1

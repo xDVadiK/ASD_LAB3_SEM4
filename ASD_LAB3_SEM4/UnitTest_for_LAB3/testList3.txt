@@ -1,0 +1,4 @@
+Vladivostok;Khabarovsk;1;1
+Khabarovsk;Tomsk;1;1
+Tomsk;Vladivostok;1;1
+Vladivostok;Voronezh;1;N/A

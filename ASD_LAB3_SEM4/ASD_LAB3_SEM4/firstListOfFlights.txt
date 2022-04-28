@@ -1,0 +1,5 @@
+Rome;Moscow;10;20
+Paris;Berlin;10;30
+Berlin;Rome;5;15
+Paris;Moscow;10;25
+Paris;London;N/A;40
